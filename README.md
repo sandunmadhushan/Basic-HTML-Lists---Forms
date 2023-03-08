@@ -1,4 +1,4 @@
 # Basic HTML Lists & Forms
 
-https://html-list-and-forms.netlify.app/
+https://sandunmadhushan.github.io/Basic-HTML-Lists---Forms/
  
